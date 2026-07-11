@@ -2,9 +2,9 @@
 
 หมายเลข/ชื่อโจทย์ OJ: oj3022 - Temperature
 
-OJ submission ID ถ้ามีการส่งแล้ว: 
+OJ submission ID ถ้ามีการส่งแล้ว: 549456
 
-สถานะ OJ: 
+สถานะ OJ: Passed
 
 เวลาที่ใช้คิดและทำโจทย์ด้วยตนเอง: 1-3 hours
 
