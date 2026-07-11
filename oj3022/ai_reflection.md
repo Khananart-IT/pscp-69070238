@@ -5,8 +5,8 @@
 | Item | Answer |
 |---|---|
 | OJ problem number/title | oj3022 - Temperature |
-| OJ submission ID, if submitted | 549427 |
-| OJ status | Not Pass |
+| OJ submission ID, if submitted | 549456 |
+| OJ status | Passed |
 
 2.เครื่องมือ AI ที่ใช้
 เขียนชื่อเครื่องมือ AI ที่ใช้
