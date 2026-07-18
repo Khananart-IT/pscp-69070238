@@ -38,18 +38,17 @@ Case 1
 
 ทำไมเลือก case นี้: เพื่อทดสอบว่าถ้ามีทั้งพิกัด x และ y จะสามารถคำนวณได้ไหม
 
-Input: 20 2
-
+Input: 
+       20 2
        16 25
-       
        10 11
 
-Expected output: 139
-
+Expected output: 
+                 139
                  35
 
-Actual output: 139
-
+Actual output: 
+               139
                35
 
 Result: Pass
@@ -58,24 +57,20 @@ Case 2
 
 ทำไมเลือก case นี้: เพื่อทดสอบว่าถ้าบางพิกัดมี 0 ผลลัพธ์จะออกมาเป็นอย่างไร
 
-Input: 23 3
-
+Input: 
+       23 3
        0 15
-       
        48 0
-       
        0 0
 
-Expected output: 31
-
+Expected output: 
+                 31
                  315
-                 
                  0
 
-Actual output: 31
-
+Actual output: 
+               31
                315
-               
                0
 
 Result: Pass
@@ -84,20 +79,23 @@ Case 3
 
 ทำไมเลือก case นี้: เพื่อทดสอบว่าหาก input เป็นเลขเดียวกันหมดจะเป็นอย่างไร
 
-Input: 5 5
+Input: 
+       5 5
        5 5
        5 5
        5 5
        5 5
        5 5
 
-Expected output: 32
+Expected output: 
+                 32
                  32
                  32
                  32
                  32
 
-Actual output: 32
+Actual output: 
+               32
                32
                32
                32
