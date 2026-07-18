@@ -40,7 +40,7 @@ Case 1
 
 Input: 
 
-  Yellow 
+  Yellow
   Red
 
 Expected output: Orange
