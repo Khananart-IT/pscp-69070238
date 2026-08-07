@@ -76,7 +76,7 @@ Expected output: 30
 
 Actual output: 30
 
-Result: 0
+Result: Pass
 
 ### Case 3
 

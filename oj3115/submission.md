@@ -69,7 +69,7 @@ Expected output: 0
 
 Actual output: 0
 
-Result: 0
+Result: Pass
 
 ### Case 3
 
