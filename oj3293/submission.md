@@ -76,7 +76,11 @@ Result: Pass
 
 Input:
 
-
+    \n
+    \n
+    \n
+    \n
+    \n
 
 
 
